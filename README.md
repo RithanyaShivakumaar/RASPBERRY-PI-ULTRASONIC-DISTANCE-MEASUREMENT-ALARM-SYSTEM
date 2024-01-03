@@ -1,0 +1,2 @@
+# RASPBERRY-PI-ULTRASONIC-DISTANCE-MEASUREMENT-ALARM-SYSTEM
+ A Raspberry Pi-based system designed to detect the presence of objects in close proximity. The system utilizes an ultrasonic sensor to measure distance, generates alarms when objects are within a specified range, and includes functionality for distance tracking. The primary focus of this system is akin to modern-day car reverse alert systems.
